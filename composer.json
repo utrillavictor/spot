@@ -22,7 +22,8 @@
         "doctrine/doctrine-fixtures-bundle": "dev-master",
         "doctrine/data-fixtures": "dev-master",
         "ideup/simple-paginator-bundle": "dev-master",
-	"beberlei/DoctrineExtensions": "dev-master"
+        "beberlei/DoctrineExtensions": "dev-master",
+        "propel/propel-bundle": "1.2.*"
     },
     "scripts": {
         "post-install-cmd": [
